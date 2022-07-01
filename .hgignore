@@ -1,0 +1,22 @@
+syntax:glob
+build/
+test/
+nbproject/
+dist/
+build.xml
+manifest.mf
+frontespizio_locale.xhtml
+corpo_locale.xhtml
+registrazioni_locale.xhtml
+frontespizio.pdf
+corpo.pdf
+registrazioni.pdf
+frontespizioTrasparenza_locale.xhtml
+syntax: glob
+TemplateFrontespizioVerbaCaricato.xhtml
+TemplateFrontespizioTrasparenzaCaricato.xhtml
+TemplateFrontespizio.pdf
+TemplateFrontespizio.xhtml
+TemplateFrontespizioCaricato.xhtml
+TemplateFrontespizioTrasparenza.pdf
+TemplateFrontespizioTrasparenza.xhtml

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
+    <info organisation="myorg" module="mymodule"/>
+    <dependencies>
+            <dependency org="org.apache.logging.log4j" name="log4j-core" rev="2.14.1"/>
+            <dependency org="org.apache.logging.log4j" name="log4j-api" rev="2.14.1"/>
+            <dependency org="org.xhtmlrenderer" name="flying-saucer-core" rev="9.0.8"/>
+            <dependency org="org.xhtmlrenderer" name="flying-saucer-pdf-itext5" rev="9.0.8"/>
+            <dependency org="com.itextpdf" name="itextpdf" rev="5.5.13.2"/>
+            <dependency org="com.itextpdf" name="itext-xtra" rev="5.5.13.2"/>
+            <dependency org="org.freemarker" name="freemarker" rev="2.3.31"/>
+            <dependency org="xerces" name="xercesImpl" rev="2.12.1"/>
+            <dependency org="commons-io" name="commons-io" rev="latest.release"/>
+    </dependencies>
+</ivy-module>
